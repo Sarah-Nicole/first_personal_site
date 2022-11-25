@@ -1,0 +1,169 @@
+body{
+  margin: 0;
+  text-align: center;
+
+}
+
+h1 {
+  margin: 60px auto 10px auto;
+  font-family: 'Shadows Into Light Two', sans-serif;
+  font-size: 3.75rem;
+}
+
+h2 {
+  font-family: 'Dosis', sans-serif;
+  font-size: 2.25rem;
+  font-weight: normal;
+  color: #75CFB8;
+
+}
+
+h3 {
+  font-family: 'Dosis', sans-serif;
+  font-size: 1.25rem;
+  font-weight: normal;
+  color: #FBB03B;
+}
+
+p {
+  font-family: 'Dosis', sans-serif;
+  font-size: 1rem;
+}
+
+hr {
+  border-style: none;
+  border-top: 5px dotted #F0E5D8;
+  width: 5%;
+  margin: 50px auto;
+
+}
+
+.top_container {
+  background-color: #F0E5D8;
+  padding-top: 20px;
+  position: relative;
+}
+
+.cloud_1 {
+  width: 8%;
+  position: absolute;
+  top: 30%;
+  left: 20%;
+
+}
+
+.cloud_2 {
+  width: 10%;
+  position: absolute;
+  top: 8%;
+  right: 20%;
+}
+
+.sunny_mountain {
+  width: 40%;
+  margin: 0 auto 0 auto;
+  padding-top: 30px;
+}
+
+
+.webdesigner {
+  font-weight: 700;
+}
+
+
+.middle-container{
+  background-color: white;
+  margin: 100px 0;
+
+}
+
+.profile{
+  width: 30%;
+  margin: auto;
+  line-height: 1.5;
+}
+
+.profile_picture {
+  width: 50%;
+}
+
+
+.skill-row{
+  width: 50%;
+  margin: 50px auto 100px auto;
+  text-align: left;
+  line-height: 1.5;
+}
+
+
+.img_webdesign{
+  width:30%;
+  float:right;
+  margin-left: 30px;
+}
+
+.img_design{
+  width:25%;
+  float:left;
+  margin-right: 30px;
+}
+
+.text-webdesign{
+  margin-bottom: 100px;
+}
+
+.contact-me{
+  width: 30%;
+  margin: 0 auto 50px auto;
+  line-height: 1.5;
+}
+
+.contact-text{
+  margin: 0 auto 40px auto;
+}
+
+.btn {
+  -webkit-border-radius: 9;
+  -moz-border-radius: 9;
+  border-radius: 9px;
+  font-family: 'Dosis', sans-serif;
+  color: black;
+  font-size: 1rem;
+  background:#F0E5D8;
+  padding: 10px 10px 10px 10px;
+  border: none;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #75CFB8;
+  text-decoration: none;
+}
+
+.bottom-container{
+  background-color: #F0E5D8;
+  padding: 30px 0 10px 0;
+}
+
+.footer-link{
+  color: #FBB03B;
+  margin: 0 1rem 0 1rem;
+  font-family: 'Dosis', sans-serif;
+  font-size: 1rem;
+  text-decoration: none;
+
+}
+
+.footer-link:hover{
+  color: #75CFB8;
+  text-decoration: underline;
+}
+
+
+.copyright {
+  padding: 10px 0 1px 0;
+  color: black;
+  font-family: 'Dosis', sans-serif;
+  font-size: 0.8rem;
+
+}
